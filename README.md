@@ -1,4 +1,4 @@
-robo-grower-fb-arduino-controller
+farmbot-arduino-controller
 ==========================
 This software is responsible for receiving G-Codes from the Raspberry Pi, execute them and report back the results.
 
@@ -38,7 +38,7 @@ Software overview
 
 All files are in /src
 
-robo-grower-fb-arduino_controller contains the setup() and main(). This the main sequence:
+farmbot-arduino_controller contains the setup() and main(). This the main sequence:
 
 ```
      +--------------------------+
